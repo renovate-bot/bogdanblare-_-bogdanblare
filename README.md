@@ -35,5 +35,5 @@
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p>
-<img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=bogdanblare&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img height="250px" align="center" src="https://github-readme-stats-murex-alpha.vercel.app/api?username=bogdanblare&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </p>
