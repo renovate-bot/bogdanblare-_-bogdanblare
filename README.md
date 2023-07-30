@@ -12,9 +12,9 @@
 ### Socials
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/bogdan-kulshenko-a55a22256/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/07988e41d093ed8a7b9134d620073e637fe99e3d/img/linkedin.svg" width="70" height="70" /></a>
 <a href="https://www.github.com/bogdanblare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/4737e2b8fd6e9447611ec7a4b161e865da983910/img/github.svg" width="70" height="70" /></a>
-<a href="https://www.twitter.com/blarebogdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/4737e2b8fd6e9447611ec7a4b161e865da983910/img/twitter.svg" width="70" height="70" /></a>
+<a href="https://www.linkedin.com/in/bogdan-kulshenko-a55a22256/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/07988e41d093ed8a7b9134d620073e637fe99e3d/img/linkedin.svg" width="70" height="70" /></a>
+<a href="https://www.twitter.com/blarebogdan" target="_blank" rel="noreferrer"><img src="https://github.com/bogdanblare/controllerhero/blob/main/img/icon-x.png" width="70" height="70" /></a>
 </p>
 
 ### Skills
