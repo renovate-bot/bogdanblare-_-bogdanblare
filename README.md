@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
+<img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/7857f794a9dca34b5be35e3734d8ce59ac49df33/img/logo-readme.svg" width="100%" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanblare&label=Profile%20Views%20%F0%9F%9A%80&color=535353&style=flat" alt="bogdanblare" /> </p>
 
 ## 💻: Hi, I’m @bogdanblare
