@@ -1,5 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanblare&label=Profile%20Views%20%F0%9F%9A%80&color=002aff&style=flat" alt="bogdanblare" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanblare&label=Profile%20Views%20%F0%9F%9A%80&color=535353&style=flat" alt="bogdanblare" /> </p>
 
 ## 💻: Hi, I’m @bogdanblare
 
