@@ -8,7 +8,7 @@
 - 👀 I’m interested in coding, volleyball, games and learning new things
 - 🌱 I’m finished [The Odin Project](https://www.theodinproject.com/) and working on own IT startup
 - 📫 You can reach up to me at hoots05dues@icloud.com or on [Linkedin](https://www.linkedin.com/in/bogdan-kulshenko-a55a22256/)
-- 😎 You should definitely check out my portfolio [here](https://my-portfolio-h7ujhgd3m-bogdanblare.vercel.app/)
+- 😎 You should definitely check out my portfolio [here](https://www.blarebogdan.com/)
 
 ### Socials
 
