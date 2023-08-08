@@ -3,7 +3,7 @@
 
 ## 💻: Hi, I’m @bogdanblare
 
-## ⭐: I'm a front-end web developer
+## ⭐: I'm a Junior Software Engineer
 
 - 👀 I’m interested in coding, volleyball, games and learning new things
 - 🌱 I’m finished [The Odin Project](https://www.theodinproject.com/) and working on own IT startup
