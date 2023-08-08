@@ -36,6 +36,9 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/4737e2b8fd6e9447611ec7a4b161e865da983910/img/react-colored.svg" width="70" height="70" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/4737e2b8fd6e9447611ec7a4b161e865da983910/img/nodejs-colored.svg" width="70" height="70" alt="NodeJS" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/4737e2b8fd6e9447611ec7a4b161e865da983910/img/nextjs-colored.svg" width="70" height="70" alt="NextJs" /></a>
+<a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/1e611276bf34b398fb477a7ca00096cc1ac87129/img/pnpm.svg" width="70" height="70" alt="PNPM" /></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bogdanblare/controllerhero/1e611276bf34b398fb477a7ca00096cc1ac87129/img/npm.svg" width="70" height="70" alt="NPM" /></a>
+</p>
 </p>
 
 ## :chart_with_upwards_trend: GitHub Stats
